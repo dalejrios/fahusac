@@ -1,0 +1,22 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="last_opened_file_path" value="C:/xampp/php7/php.exe" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="web.server" />
+      </component>
+      <component name="PublishConfigData" autoUpload="On explicit save action">
+        <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
