@@ -1,0 +1,13 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="y_QcuYqSiVUFezGZqEbe" />
+          <option name="apiUrl" value="https://gitlab.com" />
+          <option name="repositoryUrl" value="https://gitlab.com/dalejrios/humanidades-usac.git" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
