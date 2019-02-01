@@ -6,8 +6,9 @@
       <mapping pattern="Paginacion" type="PLAIN_TEXT" />
       <mapping pattern="LogoRegistro" type="PLAIN_TEXT" />
       <mapping pattern="ModalCarpetasComponent" type="PLAIN_TEXT" />
-      <mapping pattern="UbicacionCarpetas" type="PLAIN_TEXT" />
       <mapping pattern="VisualizacionLibros" type="PLAIN_TEXT" />
+      <mapping pattern="Triggers.sql" type="PLAIN_TEXT" />
+      <mapping pattern="UbicacionCarpetas" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
     </extensionMap>
